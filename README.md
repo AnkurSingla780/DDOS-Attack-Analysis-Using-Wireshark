@@ -10,8 +10,8 @@ This project demonstrates how to generate controlled TCP and UDP traffic using P
 
 ```
 .
-├── tcp.py        # TCP traffic generator (multithreaded)
-├── udp.py        # UDP traffic generator (continuous stream)
+├── tcp_traffic.py        # TCP traffic generator (multithreaded)
+├── udp_traffic.py        # UDP traffic generator (continuous stream)
 └── README.md
 ```
 
